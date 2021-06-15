@@ -1,1 +1,1 @@
-# hit-and-blow
+# zk-game-test
